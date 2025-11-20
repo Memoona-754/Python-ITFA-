@@ -1,0 +1,2 @@
+arr = eval(input())   # input like: [54, 43, 2, 1, 5]
+print(len(arr), end="")
