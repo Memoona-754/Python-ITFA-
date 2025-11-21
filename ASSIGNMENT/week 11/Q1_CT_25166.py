@@ -1,6 +1,6 @@
-a = int(input())
-b = int(input())
-op = int(input())
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+op = int(input("Enter operation code (1, 2, or 3): "))
 
 if op == 1:
     print(a + b)
