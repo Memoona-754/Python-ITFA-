@@ -1,5 +1,5 @@
 # Store input numbers
-num1 = input('Enter first number: ')
-num2 = input('Enter second number: ')
-sum = float(num1) + int(num2)
-print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
+num1 = input('Enter 1st number:')
+num2 = input('Enter 2nd number:')
+sum = int(num1)+int(num2)
+print("The sum {0} and {1} is {2}".format(num1,num2,sum))

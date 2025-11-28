@@ -1,5 +1,5 @@
-age = 70
-is_member = True
+age = 50
+is_member = False
 if age >= 60:
  if is_member:
    print("30% senior discount!")

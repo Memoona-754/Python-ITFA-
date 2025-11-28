@@ -8,5 +8,5 @@ elif  op == 2:
     print(a - b)
 elif op == 3:
     print(a * b)
-elif op==4:
+else :
     print("Invalid Input")
